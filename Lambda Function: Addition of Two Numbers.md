@@ -18,7 +18,7 @@ print(result)
 ~~~
 
 ## Output
-<img width="1037" height="553" alt="Screenshot 2026-03-26 100600" src="https://github.com/user-attachments/assets/1dfa6341-04d5-4685-814a-f61c766d61e4" />
+<img width="699" height="339" alt="Screenshot 2026-03-26 102114" src="https://github.com/user-attachments/assets/ee6fb03e-7f90-46a9-9dcd-c6e3cc5ee173" />
 
 ## Result
 The program successfully defines a lambda function that computes the sum of two numbers and prints the result.
